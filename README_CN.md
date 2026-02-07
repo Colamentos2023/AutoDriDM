@@ -48,6 +48,8 @@ AutoDriDM 采用**渐进式评测**：
 
 ## 📦 数据集
 
+> **说明：** 本仓库**不提供原始图片**。请从三个原始数据集 **nuScenes**、**KITTI**、**BDD100K** 下载对应图片。
+
 数据集托管在 Hugging Face：
 
 - https://huggingface.co/datasets/ColamentosZJU/AutoDriDM

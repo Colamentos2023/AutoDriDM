@@ -47,6 +47,8 @@ AutoDriDM follows a **progressive evaluation** protocol:
 
 ## 📦 Dataset
 
+> **Note:** We do **not** provide the raw images in this repository. Please download the images from the three original datasets: **nuScenes**, **KITTI**, and **BDD100K**.
+
 The dataset is hosted on Hugging Face:
 
 - https://huggingface.co/datasets/ColamentosZJU/AutoDriDM
